@@ -185,9 +185,9 @@
   <div>
     <h3>Reach me</h3>
 			<a href="https://instagram.com/burka11" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burka11" height="30" width="40" /></a>
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burka11" /></a>
 			<a href="https://discordapp.com/users/289441566823677952" target="_blank">
-		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="elanza48"/>
+		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
     </a>		
   </div>
 </div>
