@@ -115,25 +115,7 @@
         alt="sqllite"/> 
     </a>
   </div>
-
  <div align="center">
-    <h3>Database</h3>
-    <a href="https://www.postgresql.org" target="_blank"> 
-      <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-        alt="postgresql"/> 
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank"> 
-      <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-        alt="sqlite"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt="mongodb"/> 
-    </a>
-  </div>
- 
-
-  <div align="center">
     <h3>Source Control & CI/CD</h3>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
