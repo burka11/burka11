@@ -158,7 +158,7 @@
       <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
     </a>
 	<a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> 
-      <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="photoshop" height:"70px";width="70px"/>
+      <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="photoshop" height:"100px";width="70px"/>
     </a>	
 	<a href="https://www.adobe.com/tr/products/premiere.html" target="_blank"> 
       <img src="https://aleen42.github.io/badges/src/premiere.svg" alt="photoshop"/>
