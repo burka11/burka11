@@ -14,7 +14,7 @@
     
 - 🌱 I’m currently learning 
 
-- 👯 Looking out to collaborate on <strong>Backend Developing</strong>
+- 👯 Looking out to collaborate on <strong>Backend Development</strong>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/burka11)
 
