@@ -175,7 +175,7 @@
 </div>
 
 <div align="center">
-  <h3>🎮 Game Platforms</h3>
+  <h3>🎮 Game Platform</h3>
   <div>
      <a  href="https://steamcommunity.com/id/zafre target="_blank">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
