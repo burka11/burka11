@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/burka11)
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about <b>**.NET**</b>
 
     
 <p>&nbsp;</p>
