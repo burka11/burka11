@@ -110,10 +110,7 @@
       <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb"/> 
     </a>
-    <a href="https://www.sqlite.org/index.html"_blank"> 
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-        alt="sqllite"/> 
-    </a>
+ 
   </div>
  <div align="center">
     <h3>Source Control & CI/CD</h3>
