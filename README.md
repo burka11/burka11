@@ -1,7 +1,7 @@
 <div align="center">
   <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Burak YILDIZ</h1>
-  <h3>A passionate .NET and Game Developer from Turkey.</h3>
+  <h3>A passionate .NET and Java Developer from Turkey.</h3>
 </div>
  
  <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
